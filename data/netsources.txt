@@ -1,0 +1,31 @@
+Below is a list of the datasets that have been used in the experiments, we only upload the small datasets to the repository.  
+
+
+Academia: Academia online social network https://networkrepository.com/soc-academia.php
+Advogato: Advogato is a social community platform where users can explicitly express weighted trust relationships among themselves. The dataset contains a list of all of the user-to-user links. https://networkrepository.com/soc-advogato.php
+Anybeat: Anybeat online social network  https://networkrepository.com/soc-anybeat.php
+AstroPh: Collaboration network of Arxiv Astro Physics  https://networkrepository.com/ca-AstroPh.php
+Brightkite: Brightkite is a location-based social networking service provider where users shared their locations by checking-in. The dataset contains all links among users.  https://networkrepository.com/soc-brightkite.php
+Citeseer: 	This is the citation network extracted from the CiteSeer digital library. Nodes are publications and the directed edges denote citations.  https://networkrepository.com/citeseer.php
+Dolphins:  A social network of bottlenose dolphins. The dataset contains a list of all of links, where a link represents frequent associations between dolphins.  https://networkrepository.com/soc-dolphins.php
+Douban: Douban is an online social network providing user review and recommendation services for movies, books, and music. The dataset contains all links among users. https://networkrepository.com/soc-douban.php
+EmailUniv: Email communication network at the University Rovira i Virgili in Tarragona in the south of Catalonia in Spain. Nodes are users and edges indicate that at least one email was sent.
+Erdos992: Erdos collaboration network https://networkrepository.com/ca-Erdos992.php
+GooglePlus: Google-plus online social network https://networkrepository.com/soc-google-plus.php
+Gowalla: a location-based social networking https://networkrepository.com/soc_gowalla.php
+Gplus: Google-plus online social network
+GrQc: Collaboration network of Arxiv General Relativity https://networkrepository.com/ca-GrQc.php
+Hamster: This Network contains friendships and familylinks between users of the website hamsterster.com. https://networkrepository.com/petster-hamster.php
+HepPh: Collaboration network of Arxiv High Energy Physics https://networkrepository.com/ca-HepPh.php
+Karate: Zachary karate club network https://networkrepository.com/soc-karate.php
+MathSciNet: Collaboration Networks https://networkrepository.com/ca-MathSciNet.php
+Netscience: Co-authorship of scientists in network theory & experiments https://networkrepository.com/ca-netscience.php
+NipsEgo: A social friendship network extracted from Facebook consisting of people (nodes) with edges representing friendship ties. https://networkrepository.com/socfb-nips-ego.php
+PagesCompany: 	Mutually liked facebook pages. Nodes represent the pages and edges are mutual likes among them. https://networkrepository.com/fb-pages-company.php
+PagesGovernment: 	Mutually liked facebook pages. Nodes represent the pages and edges are mutual likes among them. https://networkrepository.com/fb-pages-government.php
+Reed98 A social friendship network extracted from Facebook consisting of people (nodes) with edges representing friendship ties.  https://networkrepository.com/socfb-Reed98.php
+Themarker TheMarker Cafe is an Israelis online social network site that allows its member to connect and interact. Since most of its members are Israeli, most interaction and communication among members is done in Hebrew.  https://networkrepository.com/soc-themarker.php
+TwitterFollows Twitter follower network https://networkrepository.com/soc-twitter-follows.php
+USFCA72 Facebook social network https://networkrepository.com/socfb-USFCA72.php
+WikiTalk https://snap.stanford.edu/data/wiki-Talk.html
+WikiVote https://snap.stanford.edu/data/wiki-Vote.html

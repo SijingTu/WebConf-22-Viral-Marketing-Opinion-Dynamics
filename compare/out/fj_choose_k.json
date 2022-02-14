@@ -1,0 +1,8 @@
+{"s_dist":"Exponential","name":"Convote","mark_ad":114.0,"back_aci":218.0,"back_aidc":218.0,"k":2,"mark_aidc":218.0,"mark_aci":218.0,"m":521,"k_par":"0.005","mark_ap":218.0,"back_ad":218.0,"back_ap":218.0,"n":219}
+{"s_dist":"Exponential","name":"Netscience","mark_ad":1,"back_aci":233.0,"back_aidc":214.0,"k":2,"mark_aidc":234.0,"mark_aci":1,"m":914,"k_par":"0.005","mark_ap":3.0,"back_ad":39.0,"back_ap":30.0,"n":379}
+{"s_dist":"Exponential","name":"Polbooks","mark_ad":104.0,"back_aci":104.0,"back_aidc":104.0,"k":1,"mark_aidc":104.0,"mark_aci":104.0,"m":441,"k_par":"0.005","mark_ap":104.0,"back_ad":104.0,"back_ap":104.0,"n":105}
+{"s_dist":"Exponential","name":"Reed98","mark_ad":1,"back_aci":961.0,"back_aidc":767.0,"k":5,"mark_aidc":410.0,"mark_aci":4.0,"m":18812,"k_par":"0.005","mark_ap":1,"back_ad":53.0,"back_ap":25.0,"n":962}
+{"s_dist":"Exponential","name":"WikiTalk","mark_ad":173.0,"back_aci":403.0,"back_aidc":403.0,"k":3,"mark_aidc":403.0,"mark_aci":403.0,"m":734,"k_par":"0.005","mark_ap":403.0,"back_ad":403.0,"back_ap":403.0,"n":404}
+{"s_dist":"Exponential","name":"WikiVote","mark_ad":1,"back_aci":888.0,"back_aidc":238.0,"k":5,"mark_aidc":888.0,"mark_aci":3.0,"m":2914,"k_par":"0.005","mark_ap":2.0,"back_ad":113.0,"back_ap":50.0,"n":889}
+{"s_dist":"Exponential","name":"EmailUniv","mark_ad":1,"back_aci":1132.0,"back_aidc":284.0,"k":6,"mark_aidc":608.0,"mark_aci":6.0,"m":5451,"k_par":"0.005","mark_ap":2.0,"back_ad":65.0,"back_ap":22.0,"n":1133}
+{"s_dist":"Exponential","name":"Hamster","mark_ad":2.0,"back_aci":1999.0,"back_aidc":715.0,"k":10,"mark_aidc":1662.0,"mark_aci":8.0,"m":16097,"k_par":"0.005","mark_ap":5.0,"back_ad":223.0,"back_ap":79.0,"n":2000}

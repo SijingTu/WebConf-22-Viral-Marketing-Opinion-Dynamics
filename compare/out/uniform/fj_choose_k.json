@@ -1,0 +1,8 @@
+{"s_dist":"Uniform","name":"Netscience","mark_ad":1,"back_aci":77.0,"back_aidc":72.0,"k":2,"mark_aidc":81.0,"mark_aci":1,"m":914,"k_par":"0.005","mark_ap":3.0,"back_ad":16.0,"back_ap":13.0,"n":379}
+{"s_dist":"Uniform","name":"Reed98","mark_ad":1,"back_aci":961.0,"back_aidc":128.0,"k":5,"mark_aidc":166.0,"mark_aci":4.0,"m":18812,"k_par":"0.005","mark_ap":1,"back_ad":17.0,"back_ap":9.0,"n":962}
+{"s_dist":"Uniform","name":"WikiVote","mark_ad":2.0,"back_aci":305.0,"back_aidc":103.0,"k":5,"mark_aidc":301.0,"mark_aci":4.0,"m":2914,"k_par":"0.005","mark_ap":3.0,"back_ad":56.0,"back_ap":31.0,"n":889}
+{"s_dist":"Uniform","name":"EmailUniv","mark_ad":2.0,"back_aci":415.0,"back_aidc":124.0,"k":6,"mark_aidc":234.0,"mark_aci":6.0,"m":5451,"k_par":"0.005","mark_ap":2.0,"back_ad":41.0,"back_ap":20.0,"n":1133}
+{"s_dist":"Uniform","name":"EmailUniv","mark_ad":2.0,"back_aci":415.0,"back_aidc":124.0,"k":6,"mark_aidc":234.0,"mark_aci":6.0,"m":5451,"k_par":"0.005","mark_ap":2.0,"back_ad":41.0,"back_ap":20.0,"n":1133}
+{"s_dist":"Uniform","name":"Hamster","mark_ad":3.0,"back_aci":1999.0,"back_aidc":212.0,"k":10,"mark_aidc":504.0,"mark_aci":7.0,"m":16097,"k_par":"0.005","mark_ap":5.0,"back_ad":82.0,"back_ap":37.0,"n":2000}
+{"s_dist":"Uniform","name":"NipsEgo","mark_ad":3.0,"back_aci":1925.0,"back_aidc":2887.0,"k":15,"mark_aidc":2887.0,"mark_aci":6.0,"m":2981,"k_par":"0.005","mark_ap":16.0,"back_ad":1813.0,"back_ap":1800.0,"n":2888}
+{"s_dist":"Uniform","name":"USFCA72","mark_ad":2.0,"back_aci":2671.0,"back_aidc":266.0,"k":14,"mark_aidc":441.0,"mark_aci":11.0,"m":65244,"k_par":"0.005","mark_ap":3.0,"back_ad":34.0,"back_ap":18.0,"n":2672}
