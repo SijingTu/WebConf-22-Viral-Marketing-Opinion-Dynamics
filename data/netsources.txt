@@ -7,7 +7,7 @@ Anybeat: Anybeat online social network  https://networkrepository.com/soc-anybea
 AstroPh: Collaboration network of Arxiv Astro Physics  https://networkrepository.com/ca-AstroPh.php
 Brightkite: Brightkite is a location-based social networking service provider where users shared their locations by checking-in. The dataset contains all links among users.  https://networkrepository.com/soc-brightkite.php
 Citeseer: 	This is the citation network extracted from the CiteSeer digital library. Nodes are publications and the directed edges denote citations.  https://networkrepository.com/citeseer.php
-Convote: 
+Convote: Congressional Speech data https://www.cs.cornell.edu/home/llee/data/convote.html
 Dolphins:  A social network of bottlenose dolphins. The dataset contains a list of all of links, where a link represents frequent associations between dolphins.  https://networkrepository.com/soc-dolphins.php
 Douban: Douban is an online social network providing user review and recommendation services for movies, books, and music. The dataset contains all links among users. https://networkrepository.com/soc-douban.php
 EmailUniv: Email communication network at the University Rovira i Virgili in Tarragona in the south of Catalonia in Spain. Nodes are users and edges indicate that at least one email was sent.
@@ -22,6 +22,7 @@ Karate: Zachary karate club network https://networkrepository.com/soc-karate.php
 MathSciNet: Collaboration Networks https://networkrepository.com/ca-MathSciNet.php
 Netscience: Co-authorship of scientists in network theory & experiments https://networkrepository.com/ca-netscience.php
 NipsEgo: A social friendship network extracted from Facebook consisting of people (nodes) with edges representing friendship ties. https://networkrepository.com/socfb-nips-ego.php
+Polbooks: http://networkdata.ics.uci.edu/data/polbooks/
 PagesCompany: 	Mutually liked facebook pages. Nodes represent the pages and edges are mutual likes among them. https://networkrepository.com/fb-pages-company.php
 PagesGovernment: 	Mutually liked facebook pages. Nodes represent the pages and edges are mutual likes among them. https://networkrepository.com/fb-pages-government.php
 Reed98 A social friendship network extracted from Facebook consisting of people (nodes) with edges representing friendship ties.  https://networkrepository.com/socfb-Reed98.php

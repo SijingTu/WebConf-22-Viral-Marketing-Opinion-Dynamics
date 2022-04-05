@@ -10,6 +10,8 @@ Specify network parameters, edge probabilities, and the distributions of innate 
 
 The dataset resources are contained in the file `data/netsources.txt`.
 
+We include `Convote`, `Netscience` and `Polbooks` after preprocessing, for illustration reason. 
+
 ### Examples
 
 - For **greedy algorithm** on dataset *polbooks*, run  ```./greedy.sh``` inside folder `Algorithm`. The output is stored in `Algorithm/out`.
