@@ -4,7 +4,7 @@
 
 ### Pre-calculation
 
-Pre-calculate network parameters, transmission probabilities, and $s$ distributions:
+Specify network parameters, edge probabilities, and the distributions of innate opinions:
 
 ```.\cal.sh```
 
