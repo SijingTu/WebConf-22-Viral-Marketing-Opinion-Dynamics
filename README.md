@@ -21,4 +21,10 @@ The output is stored in `Heuristics/out`.
 
 - For **benchmark** on toy datasets, run ```./bench.sh``` inside folder `benchmark`. The output is stored in `benchmark/out`. 
 
-**Acknowledge**: Part of the codes are based on code of [Fast Evaluation for Relevant Quantities of Opinion Dynamics](https://github.com/Accelerator950113/OpinionQuantities)
+### Environment
+
+The codes are written in *Julia*, it can be downloaded on [https://julialang.org/](https://julialang.org/), the environment is *v1.6*.
+
+- Additioanal external packages are `StatsBase`, `JSON`, `JLD2`, `SparseArrays`, `Laplacians`, `Printf`, `Statistics`, `Random`, `LinearAlgebra`, `DataStructures`, `SpecialFunctions`.  
+
+**Acknowledgement**: Part of the codes are based on code of [Fast Evaluation for Relevant Quantities of Opinion Dynamics](https://github.com/Accelerator950113/OpinionQuantities)
